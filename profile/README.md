@@ -6,6 +6,7 @@
 
 1. [Post-mortem Analysis](https://github.com/IntelligentDDS/Post-mortems-Analysis)
 2. [awesome cloud-related papers](https://github.com/IntelligentDDS/awesome-papers)
+3. [awesome cloud-related slides](https://github.com/QAZASDEDC/awesome-nano-banana-slides-for-AIOps)
 
 
 ### Open Source Projects
@@ -14,6 +15,7 @@
   - Metrics
     - [TopoMAD](https://github.com/IntelligentDDS/TopoMAD)
     - [Uni-AD](https://github.com/IntelligentDDS/Uni-AD)
+    - [ShareAD](https://github.com/IntelligentDDS/ShareAD)
   - Logs
     - [SwissLog](https://github.com/IntelligentDDS/SwissLog)
 
@@ -22,6 +24,7 @@
   - [GIED](https://github.com/IntelligentDDS/GIED)
   - [Nezha](https://github.com/IntelligentDDS/Nezha)
   - [DiagConfig](https://github.com/IntelligentDDS/DiagConfig)
+  - [GEM](https://github.com/IntelligentDDS/GEM)
 
 - Optimization on Observability Data:
   - [Kmon](https://github.com/IntelligentDDS/Kmon)
