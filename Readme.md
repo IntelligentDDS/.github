@@ -1,4 +1,4 @@
-# IntelligentDDS: Intelligent Digital Delivery Systems
+# IntelligentDDS
 
 Welcome to **IntelligentDDS**! We are an open-source research group. Our work focuses on leveraging AI, Machine Learning, and Data Mining to solve reliability, performance, and scalability challenges in modern distributed systems.
 
