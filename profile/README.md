@@ -31,9 +31,9 @@ Optimizing the collection, storage, and processing of high-volume telemetry data
 
 This specialized suite focuses on the lifecycle of system logs—from generation and parsing to quality enhancement for downstream AIOps tasks.
 
-* **[LogGen](https://github.com/IntelligentDDS/LogGen)**: An automated log generation framework designed to synthesize realistic logs for testing and training without compromising sensitive data (ICSE'23).
-* **[LogFun](https://github.com/IntelligentDDS/LogFun)**: A logic-level log parsing approach that focuses on the functional structure of log messages to improve template extraction accuracy (FSE'24).
-* **[LogBoost](https://github.com/IntelligentDDS/LogBoost)**: A framework designed to "boost" the quality of raw logs, making them more suitable for automated anomaly detection and root cause analysis.
+* **[LogGen](https://github.com/IntelligentDDS/LogGen)**: An automated log generation framework designed to synthesize realistic logs for testing and training without compromising sensitive data (JSS 2025).
+* **[LogFun](https://github.com/IntelligentDDS/LogFun)**: A logic-level log parsing approach that focuses on the functional structure of log messages to improve template extraction accuracy.
+* **[LogBoost](https://github.com/IntelligentDDS/LogBoost)**: A framework designed to "boost" the quality of raw logs, making them more suitable for automated anomaly detection and root cause analysis (TSC 2025).
 
 ### 5. Benchmarks & Resources
 
